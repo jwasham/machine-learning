@@ -1,8 +1,8 @@
-# machine-learning
+# Machine Learning
 
-This is a collection of notes on machine learning algorithms.
+This is a collection of notes and code for machine learning algorithms.
 
-Most of these will be Matlab/Octave files.
+Most of these will be Matlab/Octave files. Would like to add some Python/Numpy implementations later.
 
 
 

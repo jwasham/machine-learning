@@ -18,7 +18,7 @@ grad = zeros(size(theta));
 
 hyp = X * theta; % 12x1 matrix
 
-% ------- linear regression ------
+% --------- cost function ---------
 
 % y is 12x1
 

@@ -39,3 +39,16 @@ and cross validation error. When you are computing the training set error,
 make sure you compute it on the training subset (i.e., X(1:n,:) and y(1:n))
 (instead of the entire training set). However, for the cross validation error,
 you should compute it over the entire cross validation set.
+
+
+## Logistic Regression
+
+*coming soon*
+
+## Multi-class Classification
+
+*coming soon*
+
+## Neural networks
+
+*coming soon*

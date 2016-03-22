@@ -49,6 +49,10 @@ you should compute it over the entire cross validation set.
 
 *coming soon*
 
-## Neural networks
+## Neural Networks
+
+*coming soon*
+
+## Neural Network Learning
 
 *coming soon*

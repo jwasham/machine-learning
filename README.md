@@ -56,3 +56,11 @@ you should compute it over the entire cross validation set.
 ## Neural Network Learning
 
 *coming soon*
+
+## Regularized Linear Regression
+
+*coming soon*
+
+## Support Vector Machines
+
+*coming soon*
